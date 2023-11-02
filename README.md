@@ -1,2 +1,2 @@
-# AIMiniMax-1402-1
-AI Project MiniMax
+# AIProject-1402-1
+AI Project
